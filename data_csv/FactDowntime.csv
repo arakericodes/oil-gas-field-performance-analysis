@@ -1,0 +1,121 @@
+Date,WellID,EquipmentID,DowntimeHours,DowntimeReason
+2024-02-08,W004,E02,8,Mechanical Failure
+2024-01-05,W002,E03,10,Maintenance
+2024-03-05,W003,E02,6,Power Issue
+2024-01-13,W002,E01,7,Mechanical Failure
+2024-03-25,W001,E02,3,Maintenance
+2024-03-30,W002,E01,7,Power Issue
+2024-03-25,W001,E02,8,Maintenance
+2024-02-22,W001,E03,10,Power Issue
+2024-03-22,W003,E01,6,Power Issue
+2024-02-14,W006,E02,10,Mechanical Failure
+2024-02-01,W004,E02,9,Power Issue
+2024-02-05,W002,E02,6,Maintenance
+2024-03-21,W001,E01,9,Power Issue
+2024-02-29,W002,E01,4,Power Issue
+2024-01-11,W006,E01,8,Mechanical Failure
+2024-03-03,W004,E03,11,Power Issue
+2024-01-21,W006,E03,4,Power Issue
+2024-02-21,W004,E01,2,Maintenance
+2024-02-24,W005,E02,10,Mechanical Failure
+2024-01-26,W004,E03,11,Mechanical Failure
+2024-03-08,W003,E01,9,Mechanical Failure
+2024-02-03,W006,E02,5,Power Issue
+2024-02-21,W001,E03,4,Mechanical Failure
+2024-03-22,W005,E02,2,Power Issue
+2024-02-21,W003,E02,1,Power Issue
+2024-01-29,W002,E02,11,Maintenance
+2024-02-07,W006,E02,7,Maintenance
+2024-02-11,W001,E03,6,Maintenance
+2024-01-21,W004,E03,2,Maintenance
+2024-02-11,W001,E03,8,Maintenance
+2024-01-13,W002,E01,11,Power Issue
+2024-03-04,W005,E03,4,Power Issue
+2024-01-17,W005,E02,8,Mechanical Failure
+2024-01-09,W006,E03,7,Power Issue
+2024-02-10,W005,E02,5,Power Issue
+2024-01-01,W006,E01,10,Maintenance
+2024-01-02,W006,E02,10,Power Issue
+2024-02-29,W006,E02,8,Maintenance
+2024-02-17,W004,E02,9,Mechanical Failure
+2024-01-29,W003,E01,5,Mechanical Failure
+2024-01-10,W006,E03,10,Power Issue
+2024-02-27,W006,E03,5,Mechanical Failure
+2024-02-29,W003,E01,2,Power Issue
+2024-01-21,W001,E02,5,Mechanical Failure
+2024-01-28,W006,E03,3,Maintenance
+2024-03-15,W004,E01,7,Maintenance
+2024-02-03,W005,E03,10,Maintenance
+2024-01-08,W005,E01,5,Maintenance
+2024-02-28,W002,E02,8,Power Issue
+2024-03-26,W002,E03,1,Mechanical Failure
+2024-03-12,W005,E01,3,Power Issue
+2024-02-18,W005,E03,3,Maintenance
+2024-03-19,W004,E03,9,Power Issue
+2024-01-17,W003,E03,5,Mechanical Failure
+2024-02-29,W002,E03,9,Power Issue
+2024-03-27,W003,E01,9,Mechanical Failure
+2024-03-28,W004,E02,1,Power Issue
+2024-02-14,W005,E01,2,Mechanical Failure
+2024-03-23,W006,E01,5,Mechanical Failure
+2024-03-09,W003,E01,4,Maintenance
+2024-02-01,W005,E02,10,Mechanical Failure
+2024-02-13,W005,E03,9,Maintenance
+2024-03-05,W001,E03,7,Maintenance
+2024-03-27,W003,E03,6,Maintenance
+2024-01-08,W006,E02,7,Power Issue
+2024-03-17,W003,E03,1,Power Issue
+2024-03-12,W005,E02,1,Power Issue
+2024-03-27,W006,E03,8,Power Issue
+2024-02-12,W004,E03,2,Mechanical Failure
+2024-01-01,W001,E01,10,Mechanical Failure
+2024-02-20,W005,E02,11,Power Issue
+2024-01-24,W002,E01,9,Mechanical Failure
+2024-01-24,W002,E01,7,Mechanical Failure
+2024-01-17,W001,E01,6,Maintenance
+2024-01-05,W004,E02,1,Maintenance
+2024-01-20,W005,E02,1,Maintenance
+2024-01-21,W003,E03,2,Maintenance
+2024-02-27,W001,E01,6,Mechanical Failure
+2024-01-31,W004,E03,6,Power Issue
+2024-01-11,W003,E01,2,Mechanical Failure
+2024-02-21,W002,E02,1,Mechanical Failure
+2024-01-15,W002,E02,10,Mechanical Failure
+2024-03-23,W003,E02,5,Maintenance
+2024-01-07,W001,E01,5,Maintenance
+2024-01-28,W002,E02,2,Maintenance
+2024-02-20,W005,E01,6,Power Issue
+2024-02-27,W006,E03,9,Mechanical Failure
+2024-01-05,W003,E01,2,Power Issue
+2024-01-05,W003,E03,10,Maintenance
+2024-01-08,W002,E01,2,Power Issue
+2024-03-04,W001,E03,3,Mechanical Failure
+2024-01-10,W005,E02,7,Mechanical Failure
+2024-02-07,W001,E03,6,Maintenance
+2024-03-21,W004,E02,8,Maintenance
+2024-01-08,W004,E02,8,Power Issue
+2024-01-25,W006,E03,6,Maintenance
+2024-03-13,W002,E01,11,Maintenance
+2024-03-06,W002,E01,10,Mechanical Failure
+2024-03-19,W002,E01,3,Maintenance
+2024-02-19,W006,E01,3,Maintenance
+2024-03-07,W004,E01,1,Mechanical Failure
+2024-02-18,W001,E02,7,Mechanical Failure
+2024-02-05,W006,E01,5,Power Issue
+2024-03-08,W006,E02,4,Maintenance
+2024-03-18,W001,E02,10,Mechanical Failure
+2024-02-10,W002,E02,4,Power Issue
+2024-03-29,W005,E03,4,Power Issue
+2024-03-02,W001,E03,6,Maintenance
+2024-01-10,W004,E02,8,Maintenance
+2024-01-21,W003,E03,8,Power Issue
+2024-02-05,W003,E01,5,Mechanical Failure
+2024-01-12,W006,E01,6,Power Issue
+2024-03-31,W003,E02,4,Maintenance
+2024-01-02,W005,E01,11,Mechanical Failure
+2024-01-13,W002,E02,9,Mechanical Failure
+2024-02-22,W004,E02,8,Power Issue
+2024-02-01,W005,E01,10,Maintenance
+2024-01-16,W004,E03,10,Power Issue
+2024-02-01,W004,E01,1,Power Issue
+2024-02-01,W002,E01,2,Power Issue

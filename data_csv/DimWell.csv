@@ -1,0 +1,7 @@
+WellID,WellName,FieldID,Depth_m,Status
+W001,Well-1,F001,2500,Active
+W002,Well-2,F001,2700,Active
+W003,Well-3,F001,2600,Active
+W004,Well-4,F002,3000,Active
+W005,Well-5,F002,3200,Active
+W006,Well-6,F002,3100,Active
