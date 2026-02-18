@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Oil & Gas Field Performance Analysis
 
 ## Project Overview
